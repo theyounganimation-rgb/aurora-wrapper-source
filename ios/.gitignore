@@ -1,0 +1,13 @@
+Codey/App/build
+Codey/App/Pods
+Codey/App/output
+Codey/App/App/public
+DerivedData
+xcuserdata
+
+# Cordova plugins for Capacitor
+Codey/capacitor-cordova-ios-plugins
+
+# Generated Config files
+Codey/App/App/capacitor.config.json
+Codey/App/App/config.xml
